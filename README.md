@@ -10,7 +10,7 @@ The Tapia 2018 doctoral consortium is Chair by [Dr. Christan Grant](http://tapia
 #### Location
 Wednesday, September 19, 2018 — 1:00PM - 5:00PM EST <br/>
 [Hyatt Regency Orlando](http://tapiaconference.org/venue/) <br/>
-Room: TBD <br/>
+Room: Challenger 38-39 <br/>
 
 
 ### Schedule:
@@ -29,13 +29,31 @@ Room: TBD <br/>
 
 ### Panelists
 
-TBD
+TBA
 
 
 ### Presenters
 
 | Names | Affiliation | Title |
 | ------------ |------------------ | --------------------------------------- |
+| Andrea Villanes Arellano | North Carolina State University | Epidemiological Disease Surveillance Using Public Media Text Mining |
+| Eric Corbett | Georgia Institute of Technology | Trust and Community Engagement in Digital Civics: Exploring Opportunities for Design |
+| Rachel N. Simons | The University of Texas at Austin | Collaborative Video Game Design and Diversity |
+| Tom Ongwere | Indiana University-Bloomington | Exploring Alternative Tools to Help Patients with Discordant Chronic Comorbidities (DCCs) Better Prioritize their Care and Treatment Plans and Communicate With Multiple Providers |
+| Tiffanie R. Smith | University of Florida | Makin’ Math Move: A Full Body Interactive Learning Environment for Pre-Algebraic Practice | 
+| Bryan Donsono | Syracuse University | AAPI Identity Work on Reddit: Toward Social Support and Collective Action |
+| Pablo Moriano | Indiana University-Bloomington | Anomaly Detection in Real-World Temporal Networks |
 
+### Doctoral Consortium Reviewers 
 
-
+Corey E. Baker, University of Kentucky<br/>
+Damian Clarke, South Carolina State University<br/>
+Shaun Gittens, ClearEdge IT Solutions<br/>
+Christan Grant, University of Oklahoma<br/>
+Shiree Hughes, Motorola<br/>
+Ronald Metoyer, University of Notre Dame <br/>
+Steve Oney, University of Michigan<br/>
+Alvitta Ottley, Washington University in St. Louis<br/>
+Aubrey Rembert, Pandora<br/>
+Beth Trushkowsky, Harvey Mudd<br/>
+Deborah Trytten, University of Oklahoma<br/>
