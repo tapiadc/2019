@@ -44,6 +44,20 @@ TBA
 | Bryan Donsono | Syracuse University | [AAPI Identity Work on Reddit: Toward Social Support and Collective Action](#bryan-donsono) |
 | Pablo Moriano | Indiana University-Bloomington | [Anomaly Detection in Real-World Temporal Networks](#pablo-moriano) |
 
+### Doctoral Consortium Reviewers 
+
+Corey E. Baker, University of Kentucky<br/>
+Damian Clarke, South Carolina State University<br/>
+Shaun Gittens, ClearEdge IT Solutions<br/>
+Christan Grant, University of Oklahoma<br/>
+Shiree Hughes, Motorola<br/>
+Ronald Metoyer, University of Notre Dame <br/>
+Steve Oney, University of Michigan<br/>
+Alvitta Ottley, Washington University in St. Louis<br/>
+Aubrey Rembert, Pandora<br/>
+Beth Trushkowsky, Harvey Mudd<br/>
+Deborah Trytten, University of Oklahoma<br/>
+
 #### Andrea Villanes Arellano
 Despite the improvement in health conditions across the world, communicable diseases remain among the leading mortality causes in many countries. Combating communicable diseases depends on surveillance, preventive measures, outbreak investigation, and the establishment of control mechanisms. However, delays in obtaining country-level data of confirmed communicable disease cases, such as dengue fever, are prompting new efforts for short- to medium-term data. In this paper, we propose the creation of a surveillance tool for communicable diseases, with a focus on dengue fever, by analyzing data on public media. Our research offers the following novel contributions to text analytics, sentiment analysis, epidemiology, and visualization areas: (1) an alternative method for near real-time estimation of disease outbreak, spread, and response based on text analytics of public media sources like newspapers and social media; (2) identification of topics extracted from epidemiological news articles using text mining cluster analysis and topic analysis, which has not been used before in public health surveillance systems; (3) comparison of existing text mining classification techniques to accurately predict news article topics; (4) creation of a communicable disease sentiment dictionary by extending an existing dictionary with epidemiological terms and their associated sentiments, this sentiment dictionary can be used to estimate sentiment in the area of public health; (5) creation of a streamgraph inspired technique to display evolution of topics over time, incorporating known trends to allow for comparison; (6) integration of our cluster, categorization, sentiment analysis, and visualization techniques into an interactive web-based tool that allows domain experts to monitor dengue fever. This tool can be used as the basis for monitoring other communicable diseases in the future.
 
@@ -64,18 +78,3 @@ Asian Americans and Pacific Islanders (AAPIs) are perceived as the "model minori
 
 #### Pablo Moriano
 Detection of security threats relies on the ability to collect, filter, and analyze diverse types of security data. Interactions derived from such data are usually modeled as networks aiming to provide a better understanding of the structure and dynamics of the underlying systems. Considering the temporal evolution of these networks is crucial to provide a more detailed characterization of the system's function. Irregularities, i.e., anomalies, in the general evolution of these networks are usually associated with critical and often undesired behavior. Anomaly detection techniques define the regular behavior of a system, against which unusual patterns are evaluated. Characterizing regular behavior is often a prerequisite to identify these anomalies. However, variations in the volume of interactions during a system's evolution under particular circumstances may be the norm. Identifying which stationary trends allow us to design reliable detection algorithms remains an open challenge. In this dissertation, we develop novel methods and tools for understanding and identifying anomalies in temporal networks. In particular, we focus on: (i) Graph mining: We show that surprising patterns about the composition of the community structure and k-shell decomposition of the graphs can be leveraged to detect anomalies; (ii) Graph robustness: We show how community detection-based methods are less biased against the density of edges in the system, providing a robust approach to detect anomalous behavior; (iii) Graph anomaly detection: We develop methods for detecting anomalies in different real-world scenarios, including (a) email interactions, (b) social media reaction to catastrophic events, (c) Internet route hijacking, and (d) user-system interactions in control version systems.
-
-
-### Doctoral Consortium Reviewers 
-
-Corey E. Baker, University of Kentucky<br/>
-Damian Clarke, South Carolina State University<br/>
-Shaun Gittens, ClearEdge IT Solutions<br/>
-Christan Grant, University of Oklahoma<br/>
-Shiree Hughes, Motorola<br/>
-Ronald Metoyer, University of Notre Dame <br/>
-Steve Oney, University of Michigan<br/>
-Alvitta Ottley, Washington University in St. Louis<br/>
-Aubrey Rembert, Pandora<br/>
-Beth Trushkowsky, Harvey Mudd<br/>
-Deborah Trytten, University of Oklahoma<br/>
