@@ -14,23 +14,41 @@ Room: Challenger 38-39 <br/>
 
 
 ### Schedule:
----
-#### Tentative
 
 **Lunch**: 12pm - 1pm  <br/>
 <br/>
 Opening/Intro: 1pm - 1:30pm <br/>
-Session 1: 1:30pm - 2:10pm (Concurrent:[Presentation 1a](#bryan-donsono), [Presentation 2a](#rachel-n-simons))<br/>
-Session 2: 2:10pm - 2:50pm (Concurrent:[Presentation 1b](#pablo-moriano), [Presentation 2b](#tiffanie-r-smith))<br/>
+Session 1: 1:30pm - 2:10pm [[Bryan Donsono](#bryan-donsono), [Rachel Simons](#rachel-n-simons)]<br/>
+Session 2: 2:10pm - 2:50pm [[Pablo Moriano](#pablo-moriano), [Tiffanie R. Smith](#tiffanie-r-smith)]<br/>
 **Coffee Break**: 2:50pm - 3:05pm <br/>
-Session 3: 3:05pm - 3:45pm ([Presentation 3](#andrea-villanes-arellano), [Presentation 4](#tom-ongwere)) <br/>
-Session 4: 3:45pm - 4:25pm ([Presentation 5](#eric-corbett))<br/>
+Session 3: 3:05pm - 3:45pm [[Andrea Villanese Arellano](#andrea-villanes-arellano), [Tom Ongwere](#tom-ongwere)] <br/>
+Session 4: 3:45pm - 4:25pm [[Eric Corbett](#eric-corbett)]<br/>
 <br/>
 **Break**: 4:25pm - 4:35pm <br/>
 <br/>
 Discussion: 4:35pm - 4:50pm <br/>
 Closing: 4:50pm - 5:00pm <br/>
 <br/>
+
+
+| Session | Start | End | Challenger 38 | Challenger 39 |
+| --- | --- | --- | --- | --- |
+|**Lunch** | 12pm | 1pm | x | | 
+|Opening/Intro | 1pm | 1:30pm | x | |
+|Session 1 | 1:30pm | 2:10pm | [Bryan Donsono](#bryan-donsono) | [Rachel Simons](#rachel-n-simons)|
+|Session 2| 2:10pm | 2:50pm | [Pablo Moriano](#pablo-moriano) | [Tiffanie R. Smith](#tiffanie-r-smith)|
+|**Coffee Break**| 2:50pm | 3:05pm | | |
+|Session 3| 3:05pm | 3:45pm | [Andrea Villanese Arellano](#andrea-villanes-arellano) | [Tom Ongwere](#tom-ongwere)|
+|Session 4| 3:45pm | 4:25pm | [Eric Corbett](#eric-corbett)]| |
+|**Break**| 4:25pm | 4:35pm | | |
+|Discussion| 4:35pm | 4:50pm | x | |
+|Closing| 4:50pm | 5:00pm | x | |
+
+
+
+
+
+
 
 ---
 

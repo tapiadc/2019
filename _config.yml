@@ -3,19 +3,21 @@ show_downloads: false
 
 
 description: "<small>
-Lunch: 12pm - 1pm  <br/>
+<b>Lunch:</b> 12pm - 1pm  <br/>
 <br/>
-Opening/Intro: 1pm - 1:30pm <br/>
-Session 1: 1:30pm - 2:10pm (Concurrent:[Presentation 1a](#bryan-donsono), [Presentation 2a](#rachel-n-simons))<br/>
-Session 2: 2:10pm - 2:50pm (Concurrent:[Presentation 1b](#pablo-moriano), [Presentation 2b](#tiffanie-r-smith))<br/>
-Coffee Break: 2:50pm - 3:05pm <br/>
-Session 3: 3:05pm - 3:45pm ([Presentation 3](#andrea-villanes-arellano), [Presentation 4](#tom-ongwere)) <br/>
-Session 4: 3:45pm - 4:25pm ([Presentation 5](#eric-corbett))<br/>
+<b>Opening/Intro:</b> 1pm - 1:30pm <br/>
+<b>Session 1:</b> 1:30pm - 2:10pm <br/>
+<b>Session 2:</b> 2:10pm - 2:50pm <br/>
 <br/>
-Break: 4:25pm - 4:35pm <br/>
+<b>Coffee Break</b> <br/>
 <br/>
-Discussion: 4:35pm - 4:50pm <br/>
-Closing: 4:50pm - 5:00pm <br/>
+<b>Session 3:</b> 3:05pm - 3:45pm <br/>
+<b>Session 4:</b> 3:45pm - 4:25pm <br/>
+<br/>
+<b>Break</b> <br/>
+<br/>
+<b>Discussion:</b> 4:35pm - 4:50pm <br/>
+<b>Closing:</b> 4:50pm - 5:00pm <br/>
 <br/> 
 </small>"
 
