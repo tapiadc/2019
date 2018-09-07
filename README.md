@@ -41,7 +41,10 @@ Room: Challenger 38-39 <br/>
 
 ### Panelists
 
-TBA
+Adrienne Decker, Rochester Institute of Technology <br />
+Dez Udezue, Linkedin <br />
+Anne Berres, Oak Ridge National Laboratory <br />
+Tiffani Bright, Washington University in St. Louis <br />
 
 
 ### Presenters
