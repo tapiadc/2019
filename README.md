@@ -8,7 +8,7 @@ The Tapia 2018 doctoral consortium is Chair by [Dr. Christan Grant](http://tapia
 
 
 #### Location
-Wednesday, September 19, 2018 — 1:00PM - 5:00PM EST <br/>
+Wednesday, September 19, 2018 — 12:00PM - 5:00PM EST <br/>
 [Hyatt Regency Orlando](http://tapiaconference.org/venue/) <br/>
 Room: Challenger 38-39 <br/>
 
