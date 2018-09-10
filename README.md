@@ -19,7 +19,7 @@ Room: Challenger 38-39 <br/>
 | --- | --- | --- | --- | --- |
 |**Lunch** | 12p | 1p | x | | 
 |Opening/Intro | 1p | 1:30p | x | |
-|Session 1 | 1:30p | 2:10p | [Bryan Donsono](#bryan-donsono) | [Rachel Simons](#rachel-n-simons)|
+|Session 1 | 1:30p | 2:10p | [Bryan Dosono](#bryan-donsono) | [Rachel Simons](#rachel-n-simons)|
 |Session 2| 2:10p | 2:50p | [Pablo Moriano](#pablo-moriano) | [Tiffanie R. Smith](#tiffanie-r-smith)|
 |**Coffee Break**| 2:50p | 3:05p | | |
 |Session 3| 3:05p | 3:45p | [Andrea Villanese Arellano](#andrea-villanes-arellano) | [Tom Ongwere](#tom-ongwere)|
