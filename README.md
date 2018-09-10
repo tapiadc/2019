@@ -56,7 +56,7 @@ Tiffani Bright, Washington University in St. Louis <br />
 | Rachel N. Simons | The University of Texas at Austin | [Collaborative Video Game Design and Diversity](#rachel-n-simons) |
 | Tom Ongwere | Indiana University-Bloomington | [Exploring Alternative Tools to Help Patients with Discordant Chronic Comorbidities (DCCs) Better Prioritize their Care and Treatment Plans and Communicate With Multiple Providers](#tom-ongwere) |
 | Tiffanie R. Smith | University of Florida | [Makin’ Math Move: A Full Body Interactive Learning Environment for Pre-Algebraic Practice](#tiffanie-r-smith) | 
-| Bryan Donsono | Syracuse University | [AAPI Identity Work on Reddit: Toward Social Support and Collective Action](#bryan-donsono) |
+| Bryan Dosono | Syracuse University | [AAPI Identity Work on Reddit: Toward Social Support and Collective Action](#bryan-dosono) |
 | Pablo Moriano | Indiana University-Bloomington | [Anomaly Detection in Real-World Temporal Networks](#pablo-moriano) |
 
 ### Doctoral Consortium Reviewers 
@@ -88,7 +88,7 @@ Patients with Discordant Chronic Comorbidities (DCCs) have multiple, often unrel
 #### Tiffanie R. Smith
 Algebra is deemed necessary for access to all higher level math courses and for entrance into science, technology, engineering and math career fields. Despite its importance, many students nationwide are failing to perform well in this subject. Research suggests that this is due to a weakened arithmetic foundation needed before the transition to algebraic thinking. African-Americans, in particular, are underperforming in Algebra, and many other levels of math. This research explores the intersection of African-American culture and educational technology to strengthen the foundation of this demographic by improving pre-algebraic skills necessary for success in Algebra 1. Participation from 6th and 7th grade African-American students will be utilized throughout the design, implementation and evaluation of this novel technology. The research aims to offer insight on the design of culturally relevant educational technologies that will assist in narrowing the achievement gap.
 
-#### Bryan Donsono
+#### Bryan Dosono
 Asian Americans and Pacific Islanders (AAPIs) are perceived as the "model minority" with a monolithic identity, in contrast to other marginalized racial groups in the United States. In reality, they are composed of different ethnicities, socio-economic backgrounds, and political ideologies. My research employs social network analysis with qualitative research methods to explore, interpret, and visualize large collections of social media data. I seek to understand how Asian Americans and Pacific Islanders (AAPIs) construct and express their identity in online communities and my dissertation research uncovers the ways in which AAPIs negotiate collective action in the context of online identity work.
 
 #### Pablo Moriano
