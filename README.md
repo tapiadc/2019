@@ -15,18 +15,18 @@ Room: Challenger 38-39 <br/>
 
 ### Schedule:
 
-| Session | Start | End | Challenger 38 | Challenger 39 |
-| --- | --- | --- | --- | --- |
-|**Lunch** | 12p | 1p | x | | 
+| Session | Start | End | Challenger 38 | Challenger 39 | Challenger 40 | 
+| --- | --- | --- | --- | --- | --- |
+|**Lunch** | 12p | 1p | | | x |
 |Opening/Intro | 1p | 1:30p | x | |
-|Session 1 | 1:30p | 2:10p | [Bryan Dosono](#bryan-donsono) | [Rachel Simons](#rachel-n-simons)|
-|Session 2| 2:10p | 2:50p | [Pablo Moriano](#pablo-moriano) | [Tiffanie R. Smith](#tiffanie-r-smith)|
-|**Coffee Break**| 2:50p | 3:05p | | |
-|Session 3| 3:05p | 3:45p | [Andrea Villanese Arellano](#andrea-villanes-arellano) | [Tom Ongwere](#tom-ongwere)|
-|Session 4| 3:45p | 4:25p | [Eric Corbett](#eric-corbett)| |
-|**Break**| 4:25p | 4:35p | | |
-|Discussion| 4:35p | 4:50p | x | |
-|Closing| 4:50p | 5:00p | x | |
+|Session 1 | 1:30p | 2:10p | [Rachel Simons](#rachel-n-simons) | [Andrea Villanese Arellano](#andrea-villanes-arellano) | |
+|Session 2| 2:10p | 2:50p | [Tiffanie R. Smith](#tiffanie-r-smith)  | [Tom Ongwere](#tom-ongwere) | |
+|**Coffee Break**| 2:50p | 3:05p | | | |
+|Session 3| 3:05p | 3:45p | [Pablo Moriano](#pablo-moriano)  | [Eric Corbett](#eric-corbett) | |
+|Session 4| 3:45p | 4:25p | [Bryan Dosono](#bryan-dosono)| | |
+|**Break**| 4:25p | 4:35p | | | |
+|Discussion| 4:35p | 4:50p | | | x |
+|Closing| 4:50p | 5:00p | | | x |
 
 
 ---
