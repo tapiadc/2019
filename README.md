@@ -16,7 +16,7 @@ Room: Challenger 38-39 <br/>
 ### Schedule:
 
 | Session | Start | End | Challenger 38 | Challenger 39 | Challenger 40 | 
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | :---: |
 |**Lunch** | 12p | 1p | | | x |
 |Opening/Intro | 1p | 1:30p | x | |
 |Session 1 | 1:30p | 2:10p | [Rachel Simons](#rachel-n-simons) | [Andrea Villanese Arellano](#andrea-villanes-arellano) | |
