@@ -15,7 +15,7 @@ Room: Challenger 38-39 <br/>
 
 ### Schedule:
 
-| Session | Start | End | Challenger 38 | Challenger 39 | Challenger 40 | 
+| Session | Start | End | Challenger 38-39 | Discovery 45 | Challenger 40 | 
 | --- | --- | --- | --- | --- | :---: |
 |**Lunch** | 12p | 1p | | | x |
 |Opening/Intro | 1p | 1:30p | x | |
