@@ -27,8 +27,8 @@ Room: TBD <br/>
 |**Break**| 3:30p | 3:45p | | | 
 |Session 5| 3:45p | 4:15p | [Lara J. Martin](#lara-j-martin) | |
 |Session 6| 4:15p | 4:45p | [Rediet Abebe](#rediet-abebe)| |
-|Closing| 4:45p | 5:00p | | | x |
-|Optional Networking| 5:00p | 5:30p | | | x |
+|Closing| 4:45p | 5:00p | x | |
+|Optional Networking| 5:00p | 5:30p | x | |
 
 
 ---
