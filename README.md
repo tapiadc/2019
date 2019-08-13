@@ -26,7 +26,7 @@ Room: TBD <br/>
 |Session 4| 3:00p | 3:30p | [Brianna B. Posadas](#brianna-b-posadas)| |
 |**Break**| 3:30p | 3:45p | | | 
 |Session 5| 3:45p | 4:15p | [Lara J. Martin](#lara-j-martin) | |
-|Session 6| 4:15p | 4:45p | [Rediet Abebe](#rediet-abebe)| |
+|Discussion| 4:15p | 4:45p | x | |
 |Closing| 4:45p | 5:00p | x | |
 |Optional Networking| 5:00p | 5:30p | x | |
 
@@ -74,5 +74,3 @@ Big data has become an integral aspect of precision agriculture and modern farmi
 #### Lara J. Martin
 Games research has been pushing the boundaries of what Artificial Intelligence can do and beating expert players at their respective games. The next important challenge is improvisational storytelling in open worlds. Storytelling is an important form of human communication, yet it is often missing in conversational agents. While older storytelling systems were constrained in the types of stories that they could tell, state-of-the-art storytelling systems often favor grammatical sentences over coherence. My approach uses linguistic features to abstract sentences into an event representation and addresses causality through a "bootstrapped" deep reinforcement learner (DRL). By separating events from the surface level of the sentence, I concentrate on coherence separately from grammar and provide a flexible, low-level representation which increases the types of stories told. The DRL steers the story toward a specified goal while pulling in external information to determine what events are valid. My thesis combines classical & neural AI methods and looks at how they improve improvisational story generation. Specifically, I look at the generation of event sequences, using human feedback and automated metrics to determine the quality of the story plots.
 
-#### Rediet Abebe
-Computational techniques show immense promise to both deepen our understanding of socioeconomic inequality and inform interventions aimed at mitigating it. With the increasing collaborations across disciplines and the availability of large datasets, there is a wealth of areas where nuanced questions and novel techniques can reveal powerful observations and propose innovative solutions. My research focuses on this interface of algorithms, artificial intelligence, and their applications to social good. In particular, I use algorithmic, computational, and network-based insights to study under-explored facets of inequality and provide solutions for effective interventions for improving access to opportunity.
