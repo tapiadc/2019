@@ -56,7 +56,6 @@ TBD
 | Harsha Gwalani | University Of North Texas | [Spatial Partitioning: From Macro To Nano Scale](#harsha-gwalani) |
 | Brianna B. Posadas | University of Florida | [Crowdsourcing Big Data Applications in Agriculture](#brianna-b-posadas) |
 |  Lara J. Martin | Georgia Institute of Technology | [Using Storytelling to Understand the Technological and Experiential Requirements of Interactive Improvisational Agents](#lara-j-martin) | 
-| Rediet Abebe | Cornell University | [Computational Perspectives on Social Good and Access to Opportunity](#rediet-abebe) |
 
 
 #### Saoni Mukherjee
