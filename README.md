@@ -10,7 +10,7 @@ The Tapia 2019 doctoral consortium is Chair by [Dr. Alvitta Ottley](http://tapia
 #### Location
 Wednesday, September 18, 2019 — 12:00PM - 5:00PM EST <br/>
 [Marriott Marquis San Diego Marina](http://tapiaconference.org/venue/) <br/>
-Room: TBD <br/>
+Room: Mission Hills <br/>
 
 
 ### Schedule:
@@ -43,8 +43,11 @@ Room: TBD <br/>
 - Include a slide that details your primary concerns and feedback you hope to recieve from the judges. 
 
 ### Panelists
+- Anne Berred, Oak Ridge National Laboratory
+- Ellie Ebrahimi, UNC Wilmington
+- Lauren Dukes, Verily
+- Tania Roy, New College of Florida
 
-TBD
 
 
 ### Presenters
