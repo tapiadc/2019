@@ -43,7 +43,7 @@ Room: Mission Hills <br/>
 - Include a slide that details your primary concerns and feedback you hope to recieve from the judges. 
 
 ### Panelists
-- Anne Berred, Oak Ridge National Laboratory
+- Anne Berres, Oak Ridge National Laboratory
 - Ellie Ebrahimi, UNC Wilmington
 - Lauren Dukes, Verily
 - Tania Roy, New College of Florida
